@@ -1,0 +1,3 @@
+프로그램 요약> 앱으로 디자인된 기능을 구현
+사용언어> flutter로 제작
+추가필요사항> iforandAppDesigner(델파이 또는 웹), iforandAppBuilderServer(go언어)
